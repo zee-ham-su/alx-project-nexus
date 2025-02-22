@@ -37,7 +37,9 @@ Throughout the program, various challenges were encountered, such as:
 - **Challenge**: Handling long-running background tasks without blocking the main application.
 - **Solution**: Integrated Celery with Django for efficient task queuing and background processing.
 - **Challenge**: Managing complex database relationships.
-- **Solution**: Leveraged Django ORM to simplify queries and maintain database integrity.
+- **Solution**: Leveraged Django ORM to simplify queries and maintain database integrity
+- **Challenge**:  Database latency in queries.
+- **Solution**: Optimized using Redis caching & query indexing
 
 ### Best Practices and Personal Takeaways
 
