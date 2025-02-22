@@ -19,12 +19,16 @@ This repository serves as a knowledge base for the ProDev Backend Engineering pr
 - **Databases**: PostgreSQL, MySQL, Redis (Caching)
 - **Swagger Documentation**: A tool for documenting RESTful APIs, making it easier to understand and use.
 
+---
+
 ### Important Backend Development Concepts
 
 - **Database Design**: The process of structuring a database according to the needs of the application, ensuring data integrity and efficiency.
 - **Asynchronous Programming**: A programming paradigm that allows for non-blocking operations, improving application performance and responsiveness.
 - **Caching Strategies**: Techniques used to store copies of files or data in temporary storage locations to reduce access time and improve performance.
 - **Entity-Relationship Diagrams (ERD)**: A visual representation of the database structure, showing the relationships between entities.
+
+---
 
 #### Challenges Faced and Solutions Implemented
 
@@ -41,6 +45,8 @@ Throughout the program, various challenges were encountered, such as:
 - **Challenge**:  Database latency in queries.
 - **Solution**: Optimized using Redis caching & query indexing
 
+---
+
 ### Best Practices and Personal Takeaways
 
 - Emphasize clean code and documentation to enhance maintainability.
@@ -52,3 +58,5 @@ Throughout the program, various challenges were encountered, such as:
 ---
 
 This repository serves as a documentation hub for my learnings and experiences throughout the ProDev Backend Engineering program.
+
+---
